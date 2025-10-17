@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757384050433",
+    "project_id": "keny-d2d47",
+    "storage_bucket": "keny-d2d47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757384050433:android:5ff60da267a4a99e868d00",
+        "android_client_info": {
+          "package_name": "com.atomicweb.dev1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKllXrk-oHwHhRIToTpx16ZOVxjhpGDP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
